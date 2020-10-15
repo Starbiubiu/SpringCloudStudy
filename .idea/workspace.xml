@@ -2,65 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0834bb41-1a32-44dc-824f-eca28ebb3ea1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/18ddef08-755e-4c8e-afe1-e3fbf0fc4a9f.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/18ddef08-755e-4c8e-afe1-e3fbf0fc4a9f/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-7001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-7001/src/main/java/com/fan/springcloud/EurekaServer_7001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-7001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-7001/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-7001/target/classes/com/fan/springcloud/EurekaServer_7001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-7002/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-7002/src/main/java/com/fan/springcloud/EurekaServer_7002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-7002/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-7002/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-7002/target/classes/com/fan/springcloud/EurekaServer_7002.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-7003/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-7003/src/main/java/com/fan/springcloud/EurekaServer_7003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka-7003/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-api/springcloud-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-api/src/main/java/com/fan/springcloud/pojo/Dept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-api/target/classes/com/fan/springcloud/pojo/Dept.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/src/main/java/com/fan/springcloud/DeptComsumer_80.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/src/main/java/com/fan/springcloud/config/ConfigBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/src/main/java/com/fan/springcloud/controller/DeptConsumerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/target/classes/com/fan/springcloud/DeptComsumer_80.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/target/classes/com/fan/springcloud/config/ConfigBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/target/classes/com/fan/springcloud/controller/DeptConsumerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/springcloud-provider-dept-8001.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/java/com/fan/springcloud/DeptProvider_8001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/java/com/fan/springcloud/controller/DeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/java/com/fan/springcloud/dao/DeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/java/com/fan/springcloud/service/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/java/com/fan/springcloud/service/impl/DeptServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/target/classes/com/fan/springcloud/DeptProvider_8001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/target/classes/com/fan/springcloud/controller/DeptController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/target/classes/com/fan/springcloud/dao/DeptDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/target/classes/com/fan/springcloud/service/DeptService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/target/classes/com/fan/springcloud/service/impl/DeptServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/target/classes/mybatis/mapper/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/target/classes/mybatis/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eureka-7001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eureka-7001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eureka-7001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eureka-7001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eureka-7002/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eureka-7002/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eureka-7002/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eureka-7002/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-eureka-7003/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-eureka-7003/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-consumer-dept-80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/src/main/java/com/fan/springcloud/DeptComsumer_80.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-consumer-dept-80/src/main/java/com/fan/springcloud/DeptComsumer_80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/src/main/java/com/fan/springcloud/config/ConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-consumer-dept-80/src/main/java/com/fan/springcloud/config/ConfigBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/src/main/java/com/fan/springcloud/controller/DeptConsumerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-consumer-dept-80/src/main/java/com/fan/springcloud/controller/DeptConsumerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-consumer-dept-80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-consumer-dept-80/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/target/classes/com/fan/springcloud/DeptComsumer_80.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-consumer-dept-80/target/classes/com/fan/springcloud/DeptComsumer_80.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/target/classes/com/fan/springcloud/config/ConfigBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-consumer-dept-80/target/classes/com/fan/springcloud/config/ConfigBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/target/classes/com/fan/springcloud/controller/DeptConsumerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-consumer-dept-80/target/classes/com/fan/springcloud/controller/DeptConsumerController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +71,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\ideaworkspace\springcloud\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -159,9 +124,9 @@
       <recent name="E:\ideaworkspace\springcloud\springcloud-provider-dept-8001\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaServer_7002">
+  <component name="RunManager" selected="Spring Boot.EurekaServer_7001">
     <configuration name="DeptComsumer_80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud-cunsumer-dept-80" />
+      <module name="springcloud-consumer-dept-80" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.fan.springcloud.*" />
@@ -212,10 +177,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EurekaServer_7003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-eureka-7003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fan.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fan.springcloud.EurekaServer_7003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.EurekaServer_7002" />
         <item itemvalue="Spring Boot.EurekaServer_7001" />
+        <item itemvalue="Spring Boot.EurekaServer_7003" />
+        <item itemvalue="Spring Boot.EurekaServer_7002" />
         <item itemvalue="Spring Boot.DeptProvider_8001" />
         <item itemvalue="Spring Boot.DeptComsumer_80" />
       </list>
@@ -251,22 +230,34 @@
       <workItem from="1601279417487" duration="4285000" />
       <workItem from="1601284363975" duration="795000" />
       <workItem from="1601285190638" duration="6187000" />
-      <workItem from="1602225403984" duration="34766000" />
+      <workItem from="1602225403984" duration="49223000" />
     </task>
+    <task id="LOCAL-00001" summary="10.13">
+      <created>1602580271383</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602580271383</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="10.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.13" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Inspections" timestamp="1601187152484">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1601187152484" />
-    <state x="275" y="22" key="#Notifications" timestamp="1601274822911">
+    <state x="275" y="22" key="#Notifications" timestamp="1602656358278">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1601274822911" />
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1602656358278" />
     <state x="275" y="22" key="#Project_Structure" timestamp="1602571195444">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -283,6 +274,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601358365156" />
+    <state x="155" y="0" key="CommitChangelistDialog2" timestamp="1602580270725">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="155" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602580270725" />
     <state width="411" height="457" key="DebuggerActiveHint" timestamp="1602309598115">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -295,38 +290,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="504" y="277" width="382" height="174" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1602580025988" />
-    <state width="1323" height="264" key="GridCell.Tab.0.bottom" timestamp="1602578221046">
+    <state width="1323" height="119" key="GridCell.Tab.0.bottom" timestamp="1602654827195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="264" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602578221046" />
-    <state width="1323" height="264" key="GridCell.Tab.0.center" timestamp="1602578221046">
+    <state width="1323" height="119" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602654827195" />
+    <state width="1323" height="119" key="GridCell.Tab.0.center" timestamp="1602654827194">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="264" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602578221046" />
-    <state width="1323" height="264" key="GridCell.Tab.0.left" timestamp="1602578221046">
+    <state width="1323" height="119" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602654827194" />
+    <state width="1323" height="119" key="GridCell.Tab.0.left" timestamp="1602654827194">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="264" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602578221046" />
-    <state width="1323" height="264" key="GridCell.Tab.0.right" timestamp="1602578221046">
+    <state width="1323" height="119" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602654827194" />
+    <state width="1323" height="119" key="GridCell.Tab.0.right" timestamp="1602654827195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="264" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602578221046" />
-    <state width="1323" height="264" key="GridCell.Tab.1.bottom" timestamp="1602578221047">
+    <state width="1323" height="119" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602654827195" />
+    <state width="1323" height="119" key="GridCell.Tab.1.bottom" timestamp="1602654827195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="264" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602578221047" />
-    <state width="1323" height="264" key="GridCell.Tab.1.center" timestamp="1602578221047">
+    <state width="1323" height="119" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602654827195" />
+    <state width="1323" height="119" key="GridCell.Tab.1.center" timestamp="1602654827195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="264" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1602578221047" />
-    <state width="1323" height="264" key="GridCell.Tab.1.left" timestamp="1602578221047">
+    <state width="1323" height="119" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1602654827195" />
+    <state width="1323" height="119" key="GridCell.Tab.1.left" timestamp="1602654827195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="264" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1602578221047" />
-    <state width="1323" height="264" key="GridCell.Tab.1.right" timestamp="1602578221047">
+    <state width="1323" height="119" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1602654827195" />
+    <state width="1323" height="119" key="GridCell.Tab.1.right" timestamp="1602654827195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="264" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1602578221047" />
+    <state width="1323" height="119" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1602654827195" />
     <state width="1323" height="216" key="GridCell.Tab.2.bottom" timestamp="1602311933963">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -355,6 +350,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="167" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601285666667" />
+    <state x="275" y="85" key="Vcs.Push.Dialog.v2" timestamp="1602580305390">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="85" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602580305390" />
     <state x="399" y="3" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1601272395324">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

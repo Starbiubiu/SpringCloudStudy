@@ -39,6 +39,9 @@ public class DeptConsumerController {
         return restTemplate.getForObject(REST_URL_PREFIX + "/dept/list", List.class);
     }
 
-
+    @GetMapping("/consumer/dept/discovery")
+    public Object dicovery(){
+        return restTemplate.getForObject(REST_URL_PREFIX + "/dept/discovery", Object.class);
+    }
 
 }

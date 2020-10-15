@@ -5,7 +5,7 @@ server:
 #Eureka配置
 eureka:
   instance:
-    hostname: localhost   #Eureka服务端的示例名称
+    hostname: eureka7001.com   #Eureka服务端的示例名称
 
   client:
     register-with-eureka: false  #表示是否向Eureka注册中心注册自己
@@ -14,6 +14,6 @@ eureka:
 
       # 单机 defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
       # 集群（关联）
-      defaultZone: http://${eureka.instance.hostname}:7002/eureka/,http://${eureka.instance.hostname}:7003/eureka/
+      defaultZone: http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
   server:
     enable-self-preservation: false
