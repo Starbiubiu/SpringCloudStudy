@@ -11,7 +11,11 @@
       <user-name>root</user-name>
       <schema-mapping>
         <introspection-scope>
-          <node kind="schema" qname="db01" />
+          <node kind="schema">
+            <name qname="db01" />
+            <name qname="db02" />
+            <name qname="db03" />
+          </node>
         </introspection-scope>
       </schema-mapping>
     </data-source>

@@ -11,11 +11,11 @@
         <module>springcloud-api</module>
         <module>springcloud-provider-dept-8001</module>
         <module>springcloud-cunsumer-dept-80</module>
-        <module>springcloud-eureka-7001</module>
-        <module>springcloud-eureka-7001</module>
         <module>spring-cloud-eureka-7001</module>
         <module>spring-cloud-eureka-7002</module>
         <module>spring-cloud-eureka-7003</module>
+        <module>springcloud-provider-dept-8002</module>
+        <module>springcloud-provider-dept-8003</module>
     </modules>
 
     <!--    打包方式-->

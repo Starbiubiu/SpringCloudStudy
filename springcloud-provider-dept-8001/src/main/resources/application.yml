@@ -25,7 +25,8 @@ eureka:
   instance:
 #    eureka.instance-id: springcloud-provider-dept8001  #修改eureka上的默认描述信息
     prefer-ip-address: true #使用ip地址注册
-    instance-id: ${spring.cloud.client.ip-address}:${server.port} #指定服务的id
+#    instance-id: ${spring.cloud.client.ip-address}:${server.port} #指定服务的id
+    instance-id: springcloud-provider-dept:${server.port} #指定服务的id
   client:
     service-url:
       defaultZone: http://localhost:7001/eureka/
