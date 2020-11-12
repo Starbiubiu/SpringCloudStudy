@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0834bb41-1a32-44dc-824f-eca28ebb3ea1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/src/main/java/com/fan/myrule/FanRandomRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/src/main/java/com/fan/myrule/fanRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8002/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8002/src/main/java/com/fan/springcloud/DeptProvider_8002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8002/src/main/java/com/fan/springcloud/controller/DeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8002/src/main/java/com/fan/springcloud/dao/DeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8002/src/main/java/com/fan/springcloud/service/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8002/src/main/java/com/fan/springcloud/service/impl/DeptServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8002/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8002/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8002/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8003/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8003/src/main/java/com/fan/springcloud/DeptProvider_8003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8003/src/main/java/com/fan/springcloud/controller/DeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8003/src/main/java/com/fan/springcloud/dao/DeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8003/src/main/java/com/fan/springcloud/service/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8003/src/main/java/com/fan/springcloud/service/impl/DeptServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8003/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8003/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-provider-dept-8003/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/18ddef08-755e-4c8e-afe1-e3fbf0fc4a9f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/18ddef08-755e-4c8e-afe1-e3fbf0fc4a9f.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-consumer-dept-80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-consumer-dept-80/src/main/java/com/fan/springcloud/DeptComsumer_80.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/src/main/java/com/fan/springcloud/DeptComsumer_80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-consumer-dept-80/src/main/java/com/fan/springcloud/config/ConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/src/main/java/com/fan/springcloud/config/ConfigBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-consumer-dept-80/src/main/java/com/fan/springcloud/controller/DeptConsumerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/src/main/java/com/fan/springcloud/controller/DeptConsumerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-consumer-dept-80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-consumer-dept-80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-consumer-dept-80/target/classes/com/fan/springcloud/DeptComsumer_80.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/target/classes/com/fan/springcloud/DeptComsumer_80.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-consumer-dept-80/target/classes/com/fan/springcloud/config/ConfigBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/target/classes/com/fan/springcloud/config/ConfigBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-consumer-dept-80/target/classes/com/fan/springcloud/controller/DeptConsumerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-cunsumer-dept-80/target/classes/com/fan/springcloud/controller/DeptConsumerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-provider-dept-8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-provider-dept-8001/target/classes/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +96,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-provider-dept-8003/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -265,7 +228,7 @@
       <workItem from="1601284363975" duration="795000" />
       <workItem from="1601285190638" duration="6187000" />
       <workItem from="1602225403984" duration="49840000" />
-      <workItem from="1603172454382" duration="10513000" />
+      <workItem from="1603172454382" duration="12363000" />
     </task>
     <task id="LOCAL-00001" summary="10.13">
       <created>1602580271383</created>
@@ -281,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602751255055</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="10.13">
+      <created>1603273048379</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603273048379</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,10 +287,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601358365156" />
-    <state x="44" y="0" key="CommitChangelistDialog2" timestamp="1602751254372">
+    <state x="25" y="0" key="CommitChangelistDialog2" timestamp="1603273047544">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="44" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602751254372" />
+    <state x="25" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603273047544" />
     <state width="411" height="457" key="DebuggerActiveHint" timestamp="1602309598115">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -333,54 +303,54 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="504" y="277" width="382" height="174" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1602580025988" />
-    <state width="1323" height="318" key="GridCell.Tab.0.bottom" timestamp="1603270441037">
+    <state width="1323" height="318" key="GridCell.Tab.0.bottom" timestamp="1603877362691">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="318" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603270441037" />
-    <state width="1323" height="318" key="GridCell.Tab.0.center" timestamp="1603270441037">
+    <state width="1323" height="318" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603877362691" />
+    <state width="1323" height="318" key="GridCell.Tab.0.center" timestamp="1603877362691">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="318" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603270441037" />
-    <state width="1323" height="318" key="GridCell.Tab.0.left" timestamp="1603270441037">
+    <state width="1323" height="318" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603877362691" />
+    <state width="1323" height="318" key="GridCell.Tab.0.left" timestamp="1603877362691">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="318" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603270441037" />
-    <state width="1323" height="318" key="GridCell.Tab.0.right" timestamp="1603270441037">
+    <state width="1323" height="318" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603877362691" />
+    <state width="1323" height="318" key="GridCell.Tab.0.right" timestamp="1603877362691">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="318" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603270441037" />
-    <state width="1323" height="318" key="GridCell.Tab.1.bottom" timestamp="1603270441038">
+    <state width="1323" height="318" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603877362691" />
+    <state width="1323" height="318" key="GridCell.Tab.1.bottom" timestamp="1603877362691">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="318" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603270441038" />
-    <state width="1323" height="318" key="GridCell.Tab.1.center" timestamp="1603270441038">
+    <state width="1323" height="318" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603877362691" />
+    <state width="1323" height="318" key="GridCell.Tab.1.center" timestamp="1603877362691">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="318" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1603270441038" />
-    <state width="1323" height="318" key="GridCell.Tab.1.left" timestamp="1603270441038">
+    <state width="1323" height="318" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1603877362691" />
+    <state width="1323" height="318" key="GridCell.Tab.1.left" timestamp="1603877362691">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="318" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1603270441038" />
-    <state width="1323" height="318" key="GridCell.Tab.1.right" timestamp="1603270441038">
+    <state width="1323" height="318" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1603877362691" />
+    <state width="1323" height="318" key="GridCell.Tab.1.right" timestamp="1603877362691">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="318" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1603270441038" />
-    <state width="1323" height="216" key="GridCell.Tab.2.bottom" timestamp="1603175282012">
+    <state width="1323" height="318" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1603877362691" />
+    <state width="1323" height="216" key="GridCell.Tab.2.bottom" timestamp="1603877362681">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="216" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603175282012" />
-    <state width="1323" height="216" key="GridCell.Tab.2.center" timestamp="1603175282012">
+    <state width="1323" height="216" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603877362681" />
+    <state width="1323" height="216" key="GridCell.Tab.2.center" timestamp="1603877362681">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="216" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1603175282012" />
-    <state width="1323" height="216" key="GridCell.Tab.2.left" timestamp="1603175282012">
+    <state width="1323" height="216" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1603877362681" />
+    <state width="1323" height="216" key="GridCell.Tab.2.left" timestamp="1603877362681">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="216" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1603175282012" />
-    <state width="1323" height="216" key="GridCell.Tab.2.right" timestamp="1603175282012">
+    <state width="1323" height="216" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1603877362681" />
+    <state width="1323" height="216" key="GridCell.Tab.2.right" timestamp="1603877362681">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="216" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1603175282012" />
+    <state width="1323" height="216" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1603877362681" />
     <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1601199136039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
