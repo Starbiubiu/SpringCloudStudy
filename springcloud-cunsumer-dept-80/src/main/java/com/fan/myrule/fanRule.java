@@ -10,7 +10,9 @@ public class fanRule {
 
     @Bean
     public IRule myRule(){
-        return new RandomRule();
+//        return new RandomRule();
+        return new FanRandomRule();//默认是轮询，现在定义为 FanRandomRule
     }
+
 
 }
