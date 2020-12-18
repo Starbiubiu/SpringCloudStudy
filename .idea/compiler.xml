@@ -14,6 +14,7 @@
         <module name="spring-cloud-eureka-7003" />
         <module name="spring-cloud-eureka-7002" />
         <module name="spring-cloud-eureka-7001" />
+        <module name="springcloud-zuul-9527" />
         <module name="springcloud-provider-dept-8003" />
         <module name="springcloud-provider-dept-8002" />
         <module name="springcloud-cunsumer-dept-feign" />
