@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+//提供restful服务
 @RestController
 public class DeptController {
 
@@ -23,11 +24,22 @@ public class DeptController {
     public boolean addDept(@RequestBody  Dept dept){
         return deptService.addDept(dept);
     }
+//
+//    @GetMapping("/dept/get/{id}")
+//    public Dept queryDept(@PathVariable("id")  Long id){
+//        return deptService.quertById(id);
+//    }
 
     @GetMapping("/dept/get/{id}")
     public Dept queryDept(@PathVariable("id")  Long id){
-        return deptService.quertById(id);
+        Dept dept = deptService.quertById(id);
+        if(dept == null ){
+            throw new RuntimeException("fail");
+        }
+
+        return dept;
     }
+
 
     @GetMapping("/dept/list")
     public List<Dept> queryAll(){

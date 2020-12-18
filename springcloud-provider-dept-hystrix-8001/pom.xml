@@ -9,11 +9,32 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>springcloud-provider-dept-8001</artifactId>
+    <artifactId>springcloud-provider-dept-hystrix-8001</artifactId>
+
+    <!--
+    服务熔断：    服务端   某个服务超时或异常，引起熔断  类似保险丝
+
+
+    服务降级：    客户端   从整体网站请求负载考虑，当某个服务熔断或者关闭之后，服务将不再被调用
+                         此时在客户端，我们可以准备一个 FallbackFactory 返回一个默认值（缺省值），整体的服务水平下降了
+                         但是，好歹能用  比直接挂掉强
+
+
+
+    -->
+
 
     <dependencies>
         <!--加入Eureka依赖-->
         <!--导包-->
+
+
+
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-hystrix</artifactId>
+            <version>1.4.6.RELEASE</version>
+        </dependency>
 
 
         <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-eureka -->
@@ -36,7 +57,7 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
 
-<!--        junit-->
+        <!--        junit-->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
@@ -83,12 +104,7 @@
             <artifactId>spring-boot-devtools</artifactId>
         </dependency>
 
-        <!--Hystrix依赖-->
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-hystrix</artifactId>
-            <version>1.4.6.RELEASE</version>
-        </dependency>
+
 
 
     </dependencies>

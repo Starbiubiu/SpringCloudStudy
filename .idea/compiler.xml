@@ -8,6 +8,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springcloud-provider-dept-8001" />
+        <module name="springcloud-cunsumer-hystrix-dashboard" />
+        <module name="springcloud-provider-dept-hystrix-8001" />
         <module name="springcloud-api" />
         <module name="spring-cloud-eureka-7003" />
         <module name="spring-cloud-eureka-7002" />
