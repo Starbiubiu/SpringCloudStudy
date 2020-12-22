@@ -24,3 +24,6 @@ zuul:
 #  ignored-services: springcloud-provider-dept  #不能再使用这个路径访问
   ignored-services: "*"    #隐藏全部的
   prefix: /fan     #公共前缀
+
+
+
